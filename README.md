@@ -1,3 +1,9 @@
+# 데모페이지
+[바로가기](https://guymoon.github.io/js-racingcar/)
+
+# 웹 vscode 환경
+[바로가기](https://github.dev/guymoon/js-racingcar)
+
 # 미션 진행하며 공부하고 정리한 글
 미션 진행하면서 너무 새로운 내용이 많았어서 글로 조금 정리했습니다. 혹시 몰라 공유드립니다!
 - [Proxy로 구현한 상태관리 모듈(feat. Reflect) + 한계점 ㅜㅜ](https://www.notion.so/g1moon/Proxy-feat-Reflect-45abb2dfd14142d09142e76deeb1c352)
@@ -16,12 +22,6 @@
 - 흐름은 `dispatch(action) → commit → mutation(데이터 변경)` 이런 식 입니다.
 - Component `render()` 에서 template literals 을 사용해 JSX 처럼 동작하게끔 구현했습니다.
 - Reflect를 사용해보았습니다.
-
-# 데모페이지
-[바로가기](https://guymoon.github.io/js-racingcar/)
-
-# 웹 vscode 환경
-[바로가기](https://github.dev/guymoon/js-racingcar)
 
 # 🔥 요구사항
 NEXTSTEP 미션 요구사항에 따라 main branch의 요구 사항을 변경했습니다.
